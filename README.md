@@ -1,0 +1,1 @@
+This repository contains all the valid findings reported at CodeHawks in the competitions that I have participated. Some of those findings were selected for the final report (see more details at Codehawks.com).
